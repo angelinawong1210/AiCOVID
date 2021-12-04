@@ -1,0 +1,4 @@
+0 Normal
+1 Lung cancer
+2 COVID19
+3 Viral Pneu
