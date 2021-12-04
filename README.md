@@ -3,7 +3,7 @@
 
 Trong dự án này, chúng em đã xây dựng mô hình Deep learning nhằm nhận biết liệu bệnh nhân có đang mắc các vấn đề về phổi (COVID-19, ung thư phổi và viêm phổi do virut) hay không thông qua việc xây dựng mạng thần kinh chập nhân tạo CNN. 
 
-Bên cạnh đó, chúng em còn đính kèm thêm folder SAMPLE - bao gồm các hình ảnh X-quang phổi ngẫu nhiên của bệnh nhân để quý thầy/ cô và các bạn có thể tiện trải nghiệm mô hình của chúng em. 
+Bên cạnh đó, chúng em còn đính kèm thêm ở branch SAMPLE các hình ảnh X-quang phổi ngẫu nhiên của bệnh nhân để quý thầy/ cô và các bạn có thể tiện trải nghiệm mô hình của chúng em. 
 
 Để trải nghiệm, quý thầy/ cô và các bạn thao tác các bước sau: 
 
