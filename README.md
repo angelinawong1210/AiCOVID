@@ -24,7 +24,7 @@ Bên cạnh đó, chúng em còn đính kèm thêm folder SAMPLE - bao gồm cá
 
 This is the project "Detect COVID-19 with Chest X-ray using Deep learning", conducted by Nguyen Hoang Minh Ngoc and Nguyen Ngoc Khanh Linh, students of class 11 Maths, Le Quy Don High school for the Gifted, Khanh Hoa. 
 
-In this project, we had built an deep learning model to determine whether the patient is having lung issues (COVID-19, lung cancer and viral pneumonia) or not, by using the the convolutional neural network. 
+In this project, we had built an deep learning model to determine whether the patient is having lung issues (COVID-19, lung cancer and viral pneumonia) or not, by using the convolutional neural network. 
 
 Besides that, we attached the folder SAMPLE, including random chest x-rays so that everyone can experience our model. 
 
