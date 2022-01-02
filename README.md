@@ -1,6 +1,6 @@
 # KHKT 2021 - Khanh Hoa Science and Engineering Fair 20201
 
-#Bản Tiếng Việt 
+# Bản Tiếng Việt 
 ## Giới thiệu về dự án 
 
 Đây là dự án "Ứng dụng Deep Learning trong việc phát hiện COVID-19 qua hình chụp X-quang", được thực hiện bởi nhóm các em học sinh thuộc lớp 11 Toán - Trường THPT chuyên Lê Quý Đôn, tỉnh Khánh Hòa.
@@ -19,8 +19,8 @@ Bên cạnh đó, chúng em còn đính kèm thêm folder SAMPLE - bao gồm cá
   
   Bước 3: Cho chạy từng block của sổ tay code và nhận kết quả 
   
-#English version 
-##Overview 
+# English version 
+## Overview 
 
 This is the project "Detect COVID-19 with Chest X-ray using Deep learning", conducted by Nguyen Hoang Minh Ngoc and Nguyen Ngoc Khanh Linh, students of class 11 Maths, Le Quy Don High school for the Gifted, Khanh Hoa. 
 
@@ -28,7 +28,7 @@ In this project, we had built an deep learning model to determine whether the pa
 
 Besides that, we attached the folder SAMPLE, including random chest x-rays so that everyone can experience our model. 
 
-##Users guides
+## Intructions 
 In order to experience this model, please follow these steps: 
  
  Step 1: Dowmload the images in the folder SAMPLE and upload them onto your Google Drive
