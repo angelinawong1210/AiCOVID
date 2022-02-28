@@ -1,4 +1,4 @@
-# KHKT 2021 - Khanh Hoa Science and Engineering Fair 20201
+# AiCOVID
 
 # Bản Tiếng Việt 
 ## Giới thiệu về dự án 
